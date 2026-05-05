@@ -23,10 +23,10 @@ A material-optimization platform for rubber and roll-stock fabrication shops —
 
 ## Contact
 
-- **General:** [hello@sigilix.ai](mailto:hello@sigilix.ai)
-- **Security disclosures:** [security@sigilix.ai](mailto:security@sigilix.ai)
-- **Sales / Enterprise:** [sales@sigilix.ai](mailto:sales@sigilix.ai)
+- **Support:** [support@arcanchor.com](mailto:support@arcanchor.com)
+- **Security disclosures:** [security@arcanchor.com](mailto:security@arcanchor.com)
+- **Sales / Enterprise:** [sales@arcanchor.com](mailto:sales@arcanchor.com)
 
 ---
 
-> Arc & Anchor LLC · est. 2026 · Delaware, USA
+> Arc & Anchor LLC · est. 2026 · Las Vegas, NV

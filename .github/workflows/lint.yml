@@ -1,0 +1,22 @@
+name: lint
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  lint:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify profile/README.md exists and is non-empty
+        run: |
+          test -s profile/README.md || { echo "profile/README.md missing or empty"; exit 1; }
+      - name: Verify no orphan @sigilix.ai email refs
+        run: |
+          if grep -E "@sigilix\\.ai" profile/README.md; then
+            echo "ERROR: profile/README.md still references @sigilix.ai — emails should route through @arcanchor.com"
+            exit 1
+          fi
