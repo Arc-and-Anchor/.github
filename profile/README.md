@@ -51,9 +51,9 @@ We try to be explicit about the open-source work that makes our products possibl
 
 ## Contact
 
-- **Support:** [hello@arcanchor.com](mailto:hello@arcanchor.com)
-- **Security disclosures:** [security@arcanchor.com](mailto:security@arcanchor.com) · [security@rubberfit.app](mailto:security@rubberfit.app)
-- **Sales / Enterprise:** [sales@arcanchor.com](mailto:sales@arcanchor.com) · [sales@rubberfit.app](mailto:sales@rubberfit.app)
+- **Support:** [support@arcanchor.com](mailto:support@arcanchor.com)
+- **Security disclosures:** [security@arcanchor.com](mailto:security@arcanchor.com)
+- **Sales / Enterprise:** [sales@arcanchor.com](mailto:sales@arcanchor.com)
 
 ---
 
